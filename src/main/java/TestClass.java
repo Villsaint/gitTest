@@ -1,5 +1,5 @@
 public class TestClass {
   public static void main(String[] args){
-	System.out.println("Hello from terminal");
+	System.out.println("master");
   }
 }
