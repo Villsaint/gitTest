@@ -9,4 +9,8 @@ public class TestClass {
 	System.out.println("lob5");
 	System.out.println("max1");
   }
+
+  public void cherry(){
+	  System.out.println("Cherry");
+  }
 }
