@@ -7,5 +7,6 @@ public class TestClass {
 	System.out.println("lob3");
 	System.out.println("lob4");
 	System.out.println("lob5");
+	System.out.println("max1");
   }
 }
